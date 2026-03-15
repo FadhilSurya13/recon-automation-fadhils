@@ -50,4 +50,5 @@ Penjelasan Singkat Kode:
 7. Tampilan ringkasan, menampilkan hasil temuan total subdomain dan live host
 
 Screenshot:
-saya entah mengapa tidak bisa uploud Foto ke github, nanti akan saya sertakan link untuk ssnya
+saya entah mengapa tidak bisa uploud Foto ke github
+Disini saya sertakan link drive untuk SS : https://drive.google.com/drive/folders/17k_qkror_eMl1OAMq2FJ6TTFi9xjMWJi?usp=sharing
