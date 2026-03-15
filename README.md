@@ -49,4 +49,5 @@ Penjelasan Singkat Kode:
 6. Cek Live Host (httpx -l $SUBDOMAIN -silent -status-code -title 2>>$ERR | tee $LIVE), memastikan semua subdomain aktif dan menyimpan hasilnya ke live.txt
 7. Tampilan ringkasan, menampilkan hasil temuan total subdomain dan live host
 
-   
+Screenshot:
+saya entah mengapa tidak bisa uploud Foto ke github, nanti akan saya sertakan link untuk ssnya
