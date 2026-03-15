@@ -1,0 +1,5 @@
+tesla.com
+github.com
+shopify.com
+hackerone.com
+bugcrowd.com
