@@ -21,12 +21,12 @@ Cara menjalankan scriptnya yaitu:
 4. Jalankan Scriptnya dengan perintah (./scripts/recon-auto.sh)
 
 Contoh Input:
-# Target Bug Bounty
-tesla.com
-github.com
-shopify.com
-hackerone.com
-bugcrowd.com
+target bug bounty
+1. tesla.com
+2. github.com
+3. shopify.com
+4. hackerone.com
+5. bugcrowd.com
 
 Contoh Output :
 shop.tesla.com
