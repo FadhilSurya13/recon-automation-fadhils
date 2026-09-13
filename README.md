@@ -5,7 +5,7 @@ Own Recon Automation Tools
 Recon Automation tools adalah pipeline recon otomatis yang digunakan untuk tujuan bug bounty dan pengujian penetrasi
 Dimana pada penugasan ini akan di enumerasikan subdomain menggunakan subfinder, menghapus duplikasi hasil dengan anew, dan memfilter host yang aktif dengan httpx
 
-Untuk Instalasinya kita memerlukan beberapa tahap, yaitu:
+Untuk Instalasinya memerlukan beberapa tahap, yaitu:
 1. Instalasi pdtm
 2. Install tools yang diperlukan melalui pdtm
 3. install anew, subfinder, httpx
@@ -14,7 +14,7 @@ Untuk Instalasinya kita memerlukan beberapa tahap, yaitu:
   go install -v github.com/tomnomnom/anew@latest
 5. lalu verifikasi intalasi tersebut beserta check versi berapa yang kita gunakan
 
-Cara menjalankan scriptnya yaitu:
+Cara menjalankan script:
 1. Melakukan clone repository penugasan
 2. Menambahkan Target Domains pada folder input
 3. Mengedit script tersebut sehingga bisa di execute
@@ -49,6 +49,4 @@ Penjelasan Singkat Kode:
 6. Cek Live Host (httpx -l $SUBDOMAIN -silent -status-code -title 2>>$ERR | tee $LIVE), memastikan semua subdomain aktif dan menyimpan hasilnya ke live.txt
 7. Tampilan ringkasan, menampilkan hasil temuan total subdomain dan live host
 
-Screenshot:
-saya entah mengapa tidak bisa uploud Foto ke github
-Disini saya sertakan link drive untuk SS : https://drive.google.com/drive/folders/17k_qkror_eMl1OAMq2FJ6TTFi9xjMWJi?usp=sharing
+Disini saya sertakan link drive untuk beberapa SS : https://drive.google.com/drive/folders/17k_qkror_eMl1OAMq2FJ6TTFi9xjMWJi?usp=sharing
