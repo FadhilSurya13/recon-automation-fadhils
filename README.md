@@ -1,6 +1,6 @@
 # Recon-automation-fadhils
 
-Build Your Own Recon Automation Tools
+Own Recon Automation Tools
 
 Recon Automation tools adalah pipeline recon otomatis yang digunakan untuk tujuan bug bounty dan pengujian penetrasi
 Dimana pada penugasan ini akan di enumerasikan subdomain menggunakan subfinder, menghapus duplikasi hasil dengan anew, dan memfilter host yang aktif dengan httpx
